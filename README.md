@@ -1,13 +1,11 @@
----
-
-## 🛠️ Technologies Used
+### 🛠️ Technologies Used
 
 These are the tools and frameworks that make this project possible:
 
-- **JavaScript (ES6+)**  
-- **jQuery**  
-- **Parcel**  
-- **Tailwind CSS**  
+- **JavaScript (ES6+)**
+- **jQuery**
+- **Parcel**
+- **Tailwind CSS**
 
 ---
 
