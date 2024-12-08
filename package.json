@@ -1,0 +1,31 @@
+{
+	"name": "parcel",
+	"version": "1.0.0",
+	"source": "src/index.js",
+	"type": "module",
+	"targets": {
+		"main": {
+			"source": "src/index.js",
+			"distDir": "dist",
+			"publicUrl": "./",
+			"engines": {
+				"browsers": "> 0.25%, not dead"
+			}
+		}
+	},
+	"scripts": {
+		"dev": "parcel src/index.html",
+		"build": "parcel build src/index.html"
+	},
+	"keywords": [],
+	"author": "",
+	"license": "ISC",
+	"description": "",
+	"devDependencies": {
+		"parcel": "^2.13.2",
+		"tailwindcss": "^3.4.16"
+	},
+	"dependencies": {
+		"jquery": "^3.7.1"
+	}
+}
