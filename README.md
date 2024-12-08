@@ -31,6 +31,6 @@ npm run build
 For questions or feedback, you can reach out:
 
 - Author: LittleMoki
-- GitHub: [LittleMoki](https://github.com/yourusername)
-- Instagram: [_little_moki_](https://github.com/yourusername)
+- GitHub: [LittleMoki](https://github.com/LittleMoki)
+- Instagram: [_little_moki_](https://www.instagram.com/_little_moki_/)
   We'd love to hear from you! 🚀
