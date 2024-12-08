@@ -1,12 +1,17 @@
-💻 Usage
-After installing the dependencies, you can run the project locally with the following:
 
-Start the development server:
+---
 
-bash
-npm run dev
-Open your browser and navigate to: http://localhost:3000
+### Как правильно написать блоки кода:
+1. Внутренние блоки кода с использованием тройных обратных кавычек (\`\`\`).
+   - Например: ```` ```bash ```` для блока bash.
+2. Вставляйте комментарии и инструкции внутри этих блоков.
 
-Example
-bash
-npm run start
+---
+
+### 2. Как это отобразится на GitHub
+После того как текст сохранен в `<filename>`, загрузите его в ваш репозиторий с помощью:
+
+```bash
+git add <filename>
+git commit -m "Add detailed usage instructions"
+git push 
