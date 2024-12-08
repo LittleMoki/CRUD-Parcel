@@ -3,9 +3,9 @@
 These are the tools and frameworks that make this project possible:
 
 - **JavaScript (ES6+)**
-- **jQuery**
-- **Parcel**
-- **Tailwind CSS**
+- **[jQuery](https://jquery.com/)**
+- **[Parcel](https://parceljs.org/)**
+- **[Tailwind CSS](https://tailwindcss.com/)**
 
 ---
 
@@ -17,6 +17,14 @@ These are the tools and frameworks that make this project possible:
 npm install
 npm run start
 ```
+
+Выполните команду для сборки проекта папка со сборкой находиться в dist:
+
+```bash
+npm run build
+```
+
+---
 
 ### 💬 Contact & Support
 
