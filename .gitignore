@@ -3,3 +3,4 @@ node_modules/
 
 # Ignore dist folder (output from Parcel)
 dist/
+.parcel-cache/
